@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875110153511",
+    "project_id": "kotlinlogin-c8b2b",
+    "storage_bucket": "kotlinlogin-c8b2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875110153511:android:c41023efa0f440220d3d02",
+        "android_client_info": {
+          "package_name": "com.example.batuhan_akyol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875110153511-qlqhmnhj3fahg44k02dn7adjoi3b5f2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3LmXCjAqY7g0fAZ9Dc8LS-0OnoN-5sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875110153511-qlqhmnhj3fahg44k02dn7adjoi3b5f2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
